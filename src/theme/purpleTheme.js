@@ -9,7 +9,7 @@ import { red } from "@mui/material/colors";
     main:'#262254'
     },
     secondary:{
-        main:'#543884'
+        main:'#5455574'
     },
     error:{
         main:red.A400
