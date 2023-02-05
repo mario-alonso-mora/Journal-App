@@ -13,6 +13,7 @@ export const AuthLayout = ({children,title=''}) => {
     alignItems="center"
     justifyContent="center"
     sx={{ minHeight: "100vh", backgroundColor: "primary.main", padding: 4 }}>
+    
 
     <Grid
       item

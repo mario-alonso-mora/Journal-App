@@ -40,12 +40,17 @@ export const LoginPage = () => {
 
   return (
 
-    <AuthLayout title="Login">
+    
+
+    <AuthLayout  title="Login">
+
+    
+
 
       <form className="animate__animated animate__fadeInLeft"
        onSubmit={onSubmit}>
 
-        <Grid container item xs={12} sx={{ mt: 2 }}>
+        <Grid className="main" container item xs={12} sx={{ mt: 2 }}>
         
 
           <Grid className="animate__animated animate__bounce" item xs={12} sx={{ mb: 2 }}>
